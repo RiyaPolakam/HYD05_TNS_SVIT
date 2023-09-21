@@ -1,4 +1,4 @@
-package com.svit.opp2.inheritance.dayfive;
+package com.svit.opp2.inheritance.daysix;
 
 public class MultipleFrontend {
 	public void responsive(String str){
